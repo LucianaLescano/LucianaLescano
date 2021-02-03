@@ -1,13 +1,16 @@
-### About me 🤓
+## About me 🤓
 
 #### - My name is Luciana Lescano and I am a Data Analyst and Materials Engineer. 
 #### - Born in Peru but currently living in Spain.
 #### - Books and podcasts lover.
 
-### About my work 💻
+
+## About my work 💻
+
 #### - I like to fight ideas with data.
 #### - I'm currently learning and improving my data skills.
 #### - I would like to learn more and more about coding
+
 
 ### Take a look at my repositories, any advice is welcome 🥳
 
